@@ -1,6 +1,6 @@
 {
   "name": "@tfoxy/webfonts-loader",
-  "version": "4.1.0",
+  "version": "5.0.0",
   "description": "A WebPack loader to automaticaly generate font files and CSS to make your own icon font",
   "repository": "tfoxy/webfonts-loader",
   "main": "index.js",
